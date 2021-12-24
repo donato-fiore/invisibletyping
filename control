@@ -1,0 +1,9 @@
+Package: com.fiore.invisibletyping
+Name: InvisibleTyping
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable your typing status on Discord.
+Maintainer: Donato Fiore
+Author: Donato Fiore
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
